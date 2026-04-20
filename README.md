@@ -29,7 +29,7 @@ O projeto segue uma estrutura simplificada de pipeline de dados:
 1. **Ingestão/Mock:** Os dados são simulados em estrutura de DataFrame (simulando um banco de dados).
 2. **Processamento:** O script `analytics_engine.py` realiza a limpeza e cálculos de métricas.
 3. **Output:** Geração do arquivo `index.html` contendo o dashboard interativo.
-
+   
 ```text
 /agile-performance-hub
 ├── 📄 analytics_engine.py  # Script principal (Lógica de Negócio)
