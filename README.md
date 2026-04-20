@@ -1,4 +1,5 @@
 # 📊 Agile Performance & Analytics Hub (APAH)
+![Dashboard Preview](dashboard_000.png)
 
 ## 📝 Descrição do Projeto
 O **Agile Performance & Analytics Hub** é uma solução de Business Intelligence focada em gestão de projetos de software. O objetivo central é extrair dados de performance de Sprints e transformá-los em indicadores visuais (KPIs) para facilitar a governança e a tomada de decisão por gestores e stakeholders.
